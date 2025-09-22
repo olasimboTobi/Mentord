@@ -28,7 +28,7 @@ const Navigation: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-            <Package className="w-8 h-8 text-blue-600" />
+            <Package className="w-8 h-8 text-amber-900" />
             <Typography variant="h3" className="text-gray-900">
               ShopHub
             </Typography>

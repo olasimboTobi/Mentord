@@ -5,7 +5,7 @@ import { ArrowRight, Package, Shield, Truck } from 'lucide-react';
 
 const Hero: React.FC = () => {
   return (
-    <div className="relative bg-gradient-to-br from-blue-50 via-white to-blue-50 py-16 sm:py-24">
+    <div className="relative bg-gradient-to-br from-blue-50 via-white to-amber-50 py-16 sm:py-24">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <Typography 
